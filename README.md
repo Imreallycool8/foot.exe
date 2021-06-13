@@ -1,1 +1,1 @@
-# foot.exe
+foot program
